@@ -1,318 +1,313 @@
-FID,Name,Address,City,Zipcode,geom,,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-df7,Hollifield Station,8701 STONEHOUSE DR,Ellicott City,21043,POINT (1364014.5837106986 595742.069003459),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-df6,Northfield,9125 NORTHFIELD RD,Ellicott City,21042,POINT (1360341.0646414438 578805.6008280467),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-df5,St. Johns Lane,2960 SAINT JOHNS LN,Ellicott City,21042,POINT (1359408.3443360173 591494.6357456439),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-df4,Rockburn,6145 MONTGOMERY RD,Elkridge,21075,POINT (1377968.805286708 564014.9454167975),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-df3,Bryant Woods,5450 BLUE HERON LN,Columbia,21044,POINT (1349866.033210057 566099.8840599916),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-df2,West Friendship,12500 FREDERICK RD,West Friendship,21794,POINT (1327649.905696742 595473.9887399601),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-df1,Worthington,4570 ROUNDHILL RD,Ellicott City,21043,POINT (1370265.302343677 574871.6107604142),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-df0,Waterloo,5940 WATERLOO RD,Columbia,21045,POINT (1369580.4684827738 561177.2748546964),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-def,Bellows Spring,8125 OLD STOCKBRIDGE DR,Ellicott City,21043,POINT (1372757.0440068091 560080.955349165),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dee,Clarksville,12041 CLARKSVILLE PK,Clarksville,21029,POINT (1332651.53419368 565111.5575863719),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-ded,Forest Ridge,9550 GORMAN RD,Laurel,20723,POINT (1357667.8712715767 534855.6561444799),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dec,OLD CEDAR LANE,5451 BEAVERKILL RD,Columbia,21044,POINT (1344542.474265686 567683.1965332761),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-deb,Bollman Bridge,8200 SAVAGE GUILFORD RD,Jessup,20794,POINT (1361097.3085288685 538770.3303852663),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dea,DAYTON OAKS,4691 TEN OAKS RD,Dayton,21036,POINT (1316879.2835818029 573430.5330120864),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de9,Stevens Forest,6045 STEVENS FOREST RD,Columbia,21045,POINT (1356228.2568434644 560169.6325542307),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de8,Lisbon,15901 FREDERICK RD,Woodbine,21797,POINT (1292813.8119800063 607120.5543359603),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de7,Fulton,11600 SCAGGSVILLE RD,Fulton,20759,POINT (1336184.5745222366 540632.5516916453),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de6,Elkridge,7075 MONTGOMERY RD,Elkridge,21075,POINT (1389205.3485582955 563565.4134465636),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de5,Atholton,6700 SENECA DR,Columbia,21046,POINT (1351117.4646584424 553330.073866493),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de4,Swansfield,5610 CEDAR LN,Columbia,21044,POINT (1343852.6651160498 564506.3283451977),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de3,Jeffers Hill,6001 TAMAR DR,Columbia,21045,POINT (1361539.2312339812 560484.2464005857),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de2,Pointers Run,6600 SOUTH TROTTER RD,Clarksville,21029,POINT (1333256.470770811 555248.194005108),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de1,VETERANS,4355 MONTGOMERY RD,Ellicott City,21043,POINT (1365280.355697197 578142.4241063345),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-de0,Gorman Crossing,9999 WINTER SUN RD,Laurel,20723,POINT (1352136.5208565898 538470.3497410673),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-ddf,Thunder Hill,9357 MELLENBROOK RD,Columbia,21045,POINT (1359190.8949519782 569034.719084409),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dde,Ilchester,4981 ILCHESTER RD,Ellicott City,21043,POINT (1376357.3970652837 569880.5181690286),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-ddd,Deep Run,6925 OLD WATERLOO RD,Elkridge,21075,POINT (1372851.281828694 552927.9534712447),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-ddc,Triadelphia Ridge,13400 TRIADELPHIA RD,Ellicott City,21042,POINT (1318111.1065392992 582626.6225750344),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-ddb,Hammond,8110 ALADDIN DR,Laurel,20723,POINT (1346842.520980574 539560.523301693),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dda,Laurel Woods,9250 NORTH LAUREL RD,Laurel,20723,POINT (1357184.0976082976 528472.946028054),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd9,Cradlerock,6700 CRADLEROCK WAY,Columbia,21045,POINT (1356889.3849168748 555564.856499765),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd8,Waverly,10220 WETHERBURN RD,Ellicott City,21042,POINT (1349501.6664763715 596687.3738627398),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd7,Centennial Lane,3825 CENTENNIAL LN,Ellicott City,21042,POINT (1351505.2445155778 582523.0195037696),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd6,Talbott Springs,9550 BASKET RING RD,Columbia,21045,POINT (1356699.1532888461 563223.5818441984),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd5,Clemens Crossing,10320 QUARTERSTAFF RD,Columbia,21044,POINT (1348355.3014194665 556356.8054004504),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd4,Phelps Luck,5370 OLDSTONE CT,Columbia,21045,POINT (1363830.4980275757 566602.9735501165),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd3,Running Brook,5215 WEST RUNNING BROOK RD,Columbia,21044,POINT (1352745.8473943677 568939.6032703946),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd2,Longfellow,5470 HESPERUS DR,Columbia,21044,POINT (1345908.922683018 568184.8227031856),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd1,Guilford,7335 OAKLAND MILLS RD,Columbia,21046,POINT (1360590.1217421398 547325.1930297363),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dd0,Manor Woods,11575 FREDERICK RD,Ellicott City,21042,POINT (1336683.5667157578 591584.7762709251),,,,,,,,,
-Schools_Elementary.fid--710a7ce6_150abe9529f_-dcf,Bushy Park,14601 CARRS MILL RD,Woodbine,21797,POINT (1306019.398933712 595401.9933853523),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e1e,Burleigh Manor MS,4200 CENTENNIAL LN,Ellicott City,21042,POINT (1349837.3521338312 578560.0556958681),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e1d,Elkridge Landing,7085 MONTGOMERY RD,Elkridge,21075,POINT (1389179.886786544 563071.6892058186),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e1c,Lime Kiln,11650 SCAGGSVILLE RD,Fulton,20759,POINT (1336176.087264986 541910.6155679546),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e1b,Patapsco,8885 OLD FREDERICK RD,Ellicott City,21043,POINT (1364081.3111125303 594207.0460972893),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e1a,Patuxent Valley,9151 VOLLMERHAUSEN RD,Jessup,20794,POINT (1361027.9471506488 539147.8670008924),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e19,Oakland Mills,9540 KILIMANJARO RD,Columbia,21045,POINT (1356673.6915170946 561196.8833455854),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e18,Murray Hill,9989 WINTER SUN RD,Laurel,20723,POINT (1352696.9724991664 538549.36903271),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e17,Folly Quarter,13500 TRIADELPHIA RD,Ellicott City,21042,POINT (1316869.0403402937 582511.898270131),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e16,Bonnie Branch,4979 ILCHESTER RD,Ellicott City,21043,POINT (1376669.3769352506 570244.0069105849),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e15,Wilde Lake,10481 CROSS FOX LN,Columbia,21044,POINT (1347310.1981214813 564995.9552893392),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e14,Mayfield Woods,7950 RED BARN WAY,Elkridge,21075,POINT (1372870.0123274538 557665.5990012875),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e13,Harpers Choice,5450 BEAVERKILL RD,Columbia,21044,POINT (1344093.5276235384 567427.4081595883),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e12,Mount View,12101 WOODFORD DR,Marriottsville,21104,POINT (1330267.4928984162 602387.0061025212),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e11,Glenwood,2680 RT 97,Glenwood,21738,POINT (1305446.362737281 593950.6723955153),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e10,Clarksville,6535 SOUTH TROTTER RD,Clarksville,21029,POINT (1333861.407347942 554937.9701193997),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e0f,Ellicott Mills,4445 MONTGOMERY RD,Ellicott City,21043,POINT (1365863.049807051 576746.1239566042),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e0e,Thomas Viaduct,7000 BANBURY DR,Hanover,21076,POINT (1387390.2461628593 553122.8677239633),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e0d,Dunloggin,9129 NORTHFIELD RD,Ellicott City,21042,POINT (1359899.7272644173 579040.902718716),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e0c,Lake Elkhorn,6680 CRADLEROCK WAY,Columbia,21045,POINT (1356658.4729868523 555378.72216834),,,,,,,,,
-Schools_Middle.fid--710a7ce6_150abe9529f_-e0b,Hammond,8100 ALADDIN DR,Laurel,20723,POINT (1346637.6561503892 539708.6113075123),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e2b,Glenelg,14025 BURNTWOODS RD,Glenelg,21737,POINT (1311661.6690210416 585894.5092805235),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e2a,Marriotts Ridge,12100 WOODFORD DR,Marriottsville,21104,POINT (1330830.2858533377 602789.1264977695),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e29,Long Reach,6101 OLD DOBBIN LN,Columbia,21045,POINT (1365779.3478907184 560672.7220443557),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e28,Mt. Hebron,9440 OLD FREDERICK RD,Ellicott City,21042,POINT (1357521.8319140594 594493.5641955048),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e27,Atholton,6520 FREETOWN RD,Columbia,21044,POINT (1346149.1998624203 554196.6520981742),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e26,Applications Research Lab,10920 CLARKSVILLE PK,Ellicott City,21042,POINT (1342742.2977364487 571272.135694069),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e25,Hammond,8800 GUILFORD RD,Columbia,21046,POINT (1351918.4861444647 546560.7545491043),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e24,Reservoir,11550 SCAGGSVILLE RD,Fulton,20759,POINT (1336986.474000388 540904.4365877047),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e23,Howard,8700 OLD ANNAPOLIS RD,Ellicott City,21043,POINT (1365398.2993065747 568135.069815855),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e22,Centennial HS,4300 CENTENNIAL LN,Ellicott City,21042,POINT (1349612.5861487142 577661.5770834866),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e21,River Hill,12101 CLARKSVILLE PK,Clarksville,21029,POINT (1332622.2677893678 564178.8372809453),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e20,Oakland Mills,9410 KILIMANJARO RD,Columbia,21045,POINT (1357905.2218105479 561667.7797909671),,,,,,,,,
-Schools_High.fid--710a7ce6_150abe9529f_-e1f,Wilde Lake,5460 TRUMPETER RD,Columbia,21044,POINT (1348368.76396545 564808.0649736555),,,,,,,,,
-,,,,,,,,,,,,,,
-FID,,,,,geom,,,,,POWER,ADDRESS,SIGNS,S1_1,SPEED
-School_Flashing_Signs.1,,,,,POINT (1364982.716365343 561292.8771517291),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.2,,,,,POINT (1365333.620553045 559592.4990611961),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.3,,,,,POINT (1366056.2080755108 561189.2740804643),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.4,,,,,POINT (1361472.2111681066 560943.1436201995),,,,,electric,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.5,,,,,POINT (1361107.8444344208 560500.3429229575),,,,,solar,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.6,,,,,POINT (1362020.370920872 560437.1274896433),,,,,solar,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.7,,,,,POINT (1358735.8023649252 561611.2956306448),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.8,,,,,POINT (1357594.1199327102 560927.6324259142),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.9,,,,,POINT (1357434.032701123 560893.3907328689),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.10,,,,,POINT (1355537.862365742 560903.3413103351),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.11,,,,,POINT (1356072.8522365673 559529.8689559682),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.12,,,,,POINT (1356187.2838774275 560707.5490654871),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.13,,,,,POINT (1346090.374389753 555941.2224592185),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.14,,,,,POINT (1346815.0105605207 553366.9495359262),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.15,,,,,POINT (1347944.9864310108 555974.8788241774),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.16,,,,,POINT (1348773.8110011294 556079.3598875717),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.17,,,,,POINT (1350962.3527155884 554285.0366391968),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.18,,,,,POINT (1351468.3688461445 553242.2746535566),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.19,,,,,POINT (1350493.7975825516 552849.5195076882),,,,,electric,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.20,,,,,POINT (1351466.6128618857 547500.2061275226),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.21,,,,,POINT (1352459.0366321092 546963.1676083956),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.22,,,,,POINT (1360378.5256389633 546800.4464004203),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.23,,,,,POINT (1360323.5047988566 548137.335749397),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.24,,,,,POINT (1369703.972708971 560422.2016234441),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.25,,,,,POINT (1372770.7992168358 556786.7288797951),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.26,,,,,POINT (1373513.2878942338 556481.772946863),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.27,,,,,POINT (1359240.647839309 570113.1860833098),,,,,electric,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.28,,,,,POINT (1358761.2641366767 569020.9638743822),,,,,solar,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.29,,,,,POINT (1344457.0163650948 566902.0762021862),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.30,,,,,POINT (1356876.5076989774 556196.1328407769),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.31,,,,,POINT (1356055.585058023 555207.8063671573),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.32,,,,,POINT (1370456.704627878 573567.2071202239),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.33,,,,,POINT (1371497.4179652163 575151.982913724),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.34,,,,,POINT (1372072.210145906 574281.6000494822),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.35,,,,,POINT (1377186.8069634887 563718.1840770729),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.36,,,,,POINT (1377907.0531736093 563689.7956648901),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.37,,,,,POINT (1387758.7101931486 562574.1603325128),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.38,,,,,POINT (1388940.194935228 562121.9943858909),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.39,,,,,POINT (1375463.015749506 569900.4193239609),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.40,,,,,POINT (1376772.9800065155 571083.3673862559),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.41,,,,,POINT (1377242.1204676386 571787.224409962),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.42,,,,,POINT (1377117.445585269 572922.1755691852),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.43,,,,,POINT (1377796.1335012666 573330.7345733821),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.44,,,,,POINT (1370711.0296813503 561883.4731907473),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.45,,,,,POINT (1370056.0475528454 561235.5149992774),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.46,,,,,POINT (1372021.286602403 553708.1958102053),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.47,,,,,POINT (1363597.8301132943 595526.6682677219),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.48,,,,,POINT (1364496.894053762 595030.3100505887),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.49,,,,,POINT (1364877.0646457763 595029.1393944161),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.50,,,,,POINT (1364237.0083834706 596020.9778365532),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.51,,,,,POINT (1359482.68100297 591890.0248679003),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.52,,,,,POINT (1360121.27394506 591102.7585919048),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.53,,,,,POINT (1350923.7210618963 583197.6101231634),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.54,,,,,POINT (1351387.8862342862 581621.6142509569),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.55,,,,,POINT (1350307.6632511267 579004.612377369),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.56,,,,,POINT (1349880.0810841268 576721.8328410251),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.57,,,,,POINT (1363978.5860333948 567226.6406260073),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.58,,,,,POINT (1364738.0492252938 566960.0236827242),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.59,,,,,POINT (1360366.8190772384 539390.4854926397),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.60,,,,,POINT (1361275.8335951723 539595.3503228244),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.61,,,,,POINT (1361606.5439638991 539643.3472258963),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.62,,,,,POINT (1362982.0649665678 539758.3641948429),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.63,,,,,POINT (1361472.2111681066 539144.6476964181),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.64,,,,,POINT (1361646.3462737636 538568.0995314698),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.65,,,,,POINT (1362128.9492808701 536619.5423323701),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.66,,,,,POINT (1362243.0882576872 535977.7300858058),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.67,,,,,POINT (1357462.4211133057 534444.1704998517),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.68,,,,,POINT (1356985.3787230186 534810.8785458823),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.69,,,,,POINT (1360733.5271232692 527436.9153154056),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.70,,,,,POINT (1356505.7023563432 529000.9119618442),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.71,,,,,POINT (1356105.92327344 529244.701109764),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.72,,,,,POINT (1353273.5206641147 537072.2936070783),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.73,,,,,POINT (1352406.9424324336 537173.8480300413),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.74,,,,,POINT (1348139.3153556432 539386.095531993),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.75,,,,,POINT (1346597.5611764817 540479.488397093),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.76,,,,,POINT (1347498.381101208 541151.4450400987),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.77,,,,,POINT (1312474.982396875 585981.1378372873),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.78,,,,,POINT (1310939.6668266621 587223.7893643791),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.79,,,,,POINT (1316958.5955374886 574609.0911137346),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.80,,,,,POINT (1316188.8891040804 572948.222669023),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.81,,,,,POINT (1316526.330745799 581752.7277422751),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.82,,,,,POINT (1318095.3026809706 581958.7632286323),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.83,,,,,POINT (1318261.8285215064 582257.5732166588),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.84,,,,,POINT (1318853.8878807402 582615.2086773528),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.85,,,,,POINT (1323904.6839369226 579050.5606321389),,,,,electric,,30 fines dbl w/flash,,30
-School_Flashing_Signs.86,,,,,POINT (1325140.6041910225 579173.4795302497),,,,,solar,,30 fines dbl w/flash,,30
-School_Flashing_Signs.87,,,,,POINT (1340592.0950116387 595401.9933853523),,,,,solar,,35 fines dbl w/flash,,35
-School_Flashing_Signs.88,,,,,POINT (1340460.3961922342 594203.5341287719),,,,,solar,,35 fines dbl w/flash,,35
-School_Flashing_Signs.89,,,,,POINT (1332742.5527110905 555018.7453953011),,,,,solar,,30 fines dbl w/flash,,30
-School_Flashing_Signs.90,,,,,POINT (1332455.4492847887 555224.7808816583),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.91,,,,,POINT (1285598.472660901 612592.4939501936),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.92,,,,,POINT (1283978.2845181832 612679.1225069574),,,,,solar,,35 fines dbl w/flash,,35
-School_Flashing_Signs.93,,,,,POINT (1334047.83434341 554323.0829648025),,,,,solar,,30 fines dbl w/flash,,30
-School_Flashing_Signs.94,,,,,POINT (1361248.9085032053 526140.9989324658),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.95,,,,,POINT (1344229.6164035897 564282.7330162532),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.96,,,,,POINT (1344016.8496442407 565247.9390304664),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.97,,,,,POINT (1350005.6339586258 566765.6947580918),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.98,,,,,POINT (1350541.7944856235 566580.7310828393),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.99,,,,,POINT (1390996.7451662393 561188.396088335),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.100,,,,,POINT (1393269.2814610738 562641.4730624307),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.101,,,,,POINT (1364634.4461540289 577356.9138145976),,,,,electric,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.102,,,,,POINT (1366472.9616729151 575889.496302389),,,,,electric,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.103,,,,,POINT (1365652.0390319608 567395.5077788882),,,,,electric,,S1-1/fines dbl flash,School,40
-School_Flashing_Signs.104,,,,,POINT (1352639.3176826716 568205.6018502471),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.105,,,,,POINT (1352169.8845575056 569000.1847273207),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.106,,,,,POINT (1356913.3833684106 562855.9958060384),,,,,solar,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.107,,,,,POINT (1356083.0954780765 562851.3131813485),,,,,solar,,S1-1/fines dbl flash,School,25
-School_Flashing_Signs.108,,,,,POINT (1355983.2970393721 561414.3327296244),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.109,,,,,POINT (1356909.57873585 562097.995934355),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.110,,,,,POINT (1348860.7322219363 565311.7397918667),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.111,,,,,POINT (1347508.6243427175 565836.4864211826),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.112,,,,,POINT (1345624.7458971476 567691.0984624404),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.113,,,,,POINT (1345968.6261478148 567734.7054048654),,,,,electric,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.114,,,,,POINT (1359964.4060179472 587483.3823706274),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.115,,,,,POINT (1359823.927277249 588239.3335940089),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.116,,,,,POINT (1359978.7465560602 584969.6909042612),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.117,,,,,POINT (1361187.1563901068 584680.5388296576),,,,,electric,,25 fines dbl w/flash,,25
-School_Flashing_Signs.118,,,,,POINT (1348986.8704245216 550460.5029236915),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.119,,,,,POINT (1348037.175604594 550554.7407455766),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.120,,,,,POINT (1359964.4060179472 587483.3823706274),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.121,,,,,POINT (1359823.927277249 588239.3335940089),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.122,,,,,POINT (1305252.3264766918 596175.211787278),,,,,solar,,25 fines dbl w/flash,,25
-School_Flashing_Signs.123,,,,,POINT (1306415.666048098 594931.6822680569),,,,,electric,,35 fines dbl w/flash,,40
-School_Flashing_Signs.124,,,,,POINT (1305550.5511366322 593118.043192836),,,,,electric,,35 fines dbl w/flash,,40
-School_Flashing_Signs.125,,,,,POINT (1361486.5517062196 578962.4687551595),,,,,solar,,S1-1/fines dbl flash,,25
-School_Flashing_Signs.126,,,,,POINT (1360814.8877272569 580267.7503874792),,,,,solar,,S1-1/fines dbl flash,,25
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-FID,,,,,geom,,,,,Type,Installation_time,condition,Feet_used,
-Paint_School_Crosswalks.1,,,,,POINT (1358984.274137535 569577.3182203553),,,,,Themo,06-02-2006, , ,
-Paint_School_Crosswalks.2,,,,,POINT (1358297.3916283299 568854.7306978895),,,,,Themo,06-02-2006, , ,
-Paint_School_Crosswalks.3,,,,,POINT (1361027.9471506488 560385.618618054),,,,,Paint,06/13/06, , ,
-Paint_School_Crosswalks.4,,,,,POINT (1360997.2174261212 560382.1066495365),,,,,Paint,06/13/06, , ,
-Paint_School_Crosswalks.5,,,,,POINT (1358544.9854088102 559709.5646784445),,,,,Paint,06/13/06, , ,
-Paint_School_Crosswalks.6,,,,,POINT (1356731.9316616757 558003.040643006),,,,,Paint,06/16/06, , ,
-Paint_School_Crosswalks.7,,,,,POINT (1347374.2915469247 539147.5743368493),,,,,Paint,06/16/06, , ,
-Paint_School_Crosswalks.8,,,,,POINT (1347050.8977792761 538104.5196871661),,,,,Paint,06/16/06, , ,
-Paint_School_Crosswalks.9,,,,,POINT (1350387.8531989418 579136.6038608165),,,,,Paint,12/14/06, , ,
-Paint_School_Crosswalks.10,,,,,POINT (1350037.2416752828 579182.2594515433),,,,,Paint,12/14/06, , ,
-Paint_School_Crosswalks.11,,,,,POINT (1356835.8273969837 528218.0356464955),,,,,Themo,01-09-2007, , ,
-Paint_School_Crosswalks.12,,,,,POINT (1356100.6553206637 529345.6702046407),,,,,Themo,01-09-2007, , ,
-Paint_School_Crosswalks.13,,,,,POINT (1356443.6575792015 528912.8200848649),,,,,Themo,01-09-2007, , ,
-Paint_School_Crosswalks.14,,,,,POINT (1352937.835006655 537167.4094210926),,,,,Themo,01-09-2007, , ,
-Paint_School_Crosswalks.15,,,,,POINT (1355605.467759703 529908.4631595624),,,,,Themo,01-09-2007, , ,
-Paint_School_Crosswalks.16,,,,,POINT (1355646.733389783 529917.8284089423),,,,,Themo,01-09-2007, , ,
-Paint_School_Crosswalks.17,,,,,POINT (1355663.1225761978 529868.3681856549),,,,,Themo,01-09-2007, , ,
-Paint_School_Crosswalks.18,,,,,POINT (1352464.011920842 568703.716051639),,,,,Themo,01-04-2007, , ,
-Paint_School_Crosswalks.19,,,,,POINT (1348930.9715922854 566254.4106747594),,,,,Themo,01/17/07, , ,
-Paint_School_Crosswalks.20,,,,,POINT (1348471.1963805424 567107.233696414),,,,,Themo,01/17/07, , ,
-Paint_School_Crosswalks.21,,,,,POINT (1349698.0440493056 567305.9525816932),,,,,Themo,01/17/07, , ,
-Paint_School_Crosswalks.22,,,,,POINT (1350404.8277134427 566648.3364768003),,,,,Themo,01/17/07, , ,
-Paint_School_Crosswalks.23,,,,,POINT (1349925.7366748538 565527.1405276038),,,,,Themo,01/17/07, , ,
-Paint_School_Crosswalks.24,,,,,POINT (1362046.710684753 535804.4729722781),,,,,Paint,01-10-2007, , ,
-Paint_School_Crosswalks.25,,,,,POINT (1362275.5739664736 535837.836673194),,,,,Paint,01-10-2007, , ,
-Paint_School_Crosswalks.26,,,,,POINT (1361550.937795706 538924.564335991),,,,,Themo,01-10-2007, , ,
-Paint_School_Crosswalks.27,,,,,POINT (1361387.3385956015 539558.181989348),,,,,Themo,01-10-2007, , ,
-Paint_School_Crosswalks.28,,,,,POINT (1361362.4621519363 539573.4005195904),,,,,Themo,01-10-2007, , ,
-Paint_School_Crosswalks.29,,,,,POINT (1361395.2405247658 539606.1788924199),,,,,Themo,01-10-2007, , ,
-Paint_School_Crosswalks.30,,,,,POINT (1358561.6672592682 534033.8555113961),,,,,Paint,01-10-2007, , ,
-Paint_School_Crosswalks.31,,,,,POINT (1357212.7786845234 534665.4245164512),,,,,Themo,01-10-2007, , ,
-Paint_School_Crosswalks.32,,,,,POINT (1344061.3345787951 564941.8124413617),,,,,Paint,01/24/07, , ,
-Paint_School_Crosswalks.33,,,,,POINT (1343677.6520182635 568947.2125355158),,,,,Paint,01/24/07, , ,
-Paint_School_Crosswalks.34,,,,,POINT (1345709.9111336956 558006.2599474803),,,,,Themo,01/29/07, , ,
-Paint_School_Crosswalks.35,,,,,POINT (1357179.7076476507 562711.4197687366),,,,,Paint,02-06-2007, , ,
-Paint_School_Crosswalks.36,,,,,POINT (1355374.5558296805 562634.7417894389),,,,,Paint,01/30/07, , ,
-Paint_School_Crosswalks.37,,,,,POINT (1355502.4500165244 558857.034320833),,,,,Paint,02-06-2007, , ,
-Paint_School_Crosswalks.38,,,,,POINT (1356963.7215838276 560815.2494333556),,,,,Paint,02-06-2007, , ,
-Paint_School_Crosswalks.39,,,,,POINT (1354484.8571385927 560593.9954167561),,,,,Paint,02-06-2007, , ,
-Paint_School_Crosswalks.40,,,,,POINT (1356597.30620184 555690.1167102207),,,,,Paint,02-12-2007, , ,
-Paint_School_Crosswalks.41,,,,,POINT (1349315.5321449465 557099.8794059346),,,,,Themo,01/30/07, , ,
-Paint_School_Crosswalks.42,,,,,POINT (1346606.0484337322 553975.983409661),,,,,Paint,01/30/07, , ,
-Paint_School_Crosswalks.43,,,,,POINT (1346121.9821064102 556016.1444542574),,,,,Themo,01/30/07, , ,
-Paint_School_Crosswalks.44,,,,,POINT (1346091.2523818824 556041.8988900521),,,,,Themo,01/30/07, , ,
-Paint_School_Crosswalks.45,,,,,POINT (1348275.9894637805 556121.7961738242),,,,,Themo,01/30/07, , ,
-Paint_School_Crosswalks.46,,,,,POINT (1360423.595901604 569235.1939539468),,,,,Themo,04-11-2007, , ,
-Paint_School_Crosswalks.47,,,,,POINT (1360389.939536645 569258.8997414396),,,,,Themo,04-11-2007, , ,
-Paint_School_Crosswalks.48,,,,,POINT (1359947.138839403 569148.8580612261),,,,,Themo,04-11-2007, , ,
-Paint_School_Crosswalks.49,,,,,POINT (1360038.7426848998 567153.7672792702),,,,,Themo,04-11-2007, , ,
-Paint_School_Crosswalks.50,,,,,POINT (1362358.6905547201 559888.6750728346),,,,,Paint,04-11-2007, , ,
-Paint_School_Crosswalks.51,,,,,POINT (1371181.926126732 574634.260221443),,,,,Themo,06/18/07, , ,
-Paint_School_Crosswalks.52,,,,,POINT (1371157.927675196 574623.1389878044),,,,,Themo,06/18/07, , ,
-Paint_School_Crosswalks.53,,,,,POINT (1347786.9478477254 537806.880355312),,,,,Paint,01-11-2007, , ,
-Paint_School_Crosswalks.54,,,,,POINT (1344945.7653171069 566842.3727373895),,,,,Themo,01/18/07, , ,
-Paint_School_Crosswalks.55,,,,,POINT (1345476.9505553714 567671.1973075082),,,,,Themo,01/18/07, , ,
-Paint_School_Crosswalks.56,,,,,POINT (1345433.9289410326 567680.269892845),,,,,Themo,01/18/07, , ,
-Paint_School_Crosswalks.57,,,,,POINT (1345431.0023006015 567718.0235544075),,,,,Themo,01/18/07, , ,
-Paint_School_Crosswalks.58,,,,,POINT (1345481.3405160182 567723.87683527),,,,,Themo,01/18/07, , ,
-Paint_School_Crosswalks.59,,,,,POINT (1356197.8197829798 561491.5960370083),,,,,Themo,09-11-2008, , ,
-Paint_School_Crosswalks.60,,,,,POINT (1360781.524026341 579449.1690588697),,,,,Themo,08/27/08, , ,
-Paint_School_Crosswalks.61,,,,,POINT (1358010.2882020283 559151.1616841697),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.62,,,,,POINT (1351151.1210234014 551155.872690147),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.63,,,,,POINT (1351409.250709434 551136.264199258),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.64,,,,,POINT (1351411.0066936929 551197.7236483133),,,,,Themo,09-04-2008, , ,
-Paint_School_Crosswalks.65,,,,,POINT (1350807.8261008204 551972.4053704547),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.66,,,,,POINT (1349378.1622501744 551371.2734258841),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.67,,,,,POINT (1350567.8415854613 552841.0322504378),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.68,,,,,POINT (1351558.8020354689 553100.332592643),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.69,,,,,POINT (1351292.1850921856 553527.3294315565),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.70,,,,,POINT (1351121.5619550461 553934.1324514947),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.71,,,,,POINT (1350802.265484001 552371.8917893148),,,,,Paint,09-04-2008, , ,
-Paint_School_Crosswalks.72,,,,,POINT (1341434.3821277411 560632.9197344913),,,,,Themo,09-03-2008, , ,
-Paint_School_Crosswalks.73,,,,,POINT (1347417.0204972206 565487.0455536962),,,,,Themo,09-03-2008, , ,
-Paint_School_Crosswalks.74,,,,,POINT (1345766.9806221044 567708.9509690708),,,,,Themo,09-03-2008, , ,
-Paint_School_Crosswalks.75,,,,,POINT (1330520.0619676295 602664.1589513568),,,,,Themo,11/17/08, , ,
-Paint_School_Crosswalks.76,,,,,POINT (1330361.7307203012 603071.2546353381),,,,,Themo,11/19/08, , ,
-Paint_School_Crosswalks.77,,,,,POINT (1358202.2758143155 561414.3327296244),,,,,Themo,07/14/09, , ,
-Paint_School_Crosswalks.78,,,,,POINT (1346231.7311225804 564510.7183058445),,,,,Themo,10-08-2009, , ,
-Paint_School_Crosswalks.79,,,,,POINT (1346207.7326710445 564322.2426620746),,,,,Themo,10-08-2009, , ,
-Paint_School_Crosswalks.80,,,,,POINT (1346350.5527240876 564492.573135171),,,,,Themo,10-08-2009, , ,
-Paint_School_Crosswalks.81,,,,,POINT (1359919.9210833928 591305.5747737876),,,,,Themo,10/13/09, , ,
-Paint_School_Crosswalks.82,,,,,POINT (1356501.6050597394 562984.7679850116),,,,,Themo,07/21/10, , ,
-Paint_School_Crosswalks.83,,,,,POINT (1353913.8695904636 536573.8867416432),,,,,Themo,08/19/10, , ,
-Paint_School_Crosswalks.84,,,,,POINT (1344205.6179520537 563974.85044289),,,,,Themo,12/29/10, , ,
-Paint_School_Crosswalks.85,,,,,POINT (1344200.3499992776 563960.8025688202),,,,,Themo,12/29/10, , ,
-Paint_School_Crosswalks.86,,,,,POINT (1344206.495944183 563906.0743927566),,,,,Themo,12/29/10, , ,
-Paint_School_Crosswalks.87,,,,,POINT (1343738.8188032757 564966.3962209839),,,,,Paint,12/29/10, , ,
-Paint_School_Crosswalks.88,,,,,POINT (1374162.124077833 556428.8007550581),,,,,Themo,12/29/10,Chips, ,
-Paint_School_Crosswalks.89,,,,,POINT (1373118.1914360204 556648.0061233557),,,,,Themo,12/29/10, , ,
-Paint_School_Crosswalks.90,,,,,POINT (1373073.12117338 556659.7126850806),,,,,Themo,12/29/10,Chips, ,
-Paint_School_Crosswalks.91,,,,,POINT (1372089.184660407 556959.1080011934),,,,,Themo,12/29/10,Chips, ,
-Paint_School_Crosswalks.92,,,,,POINT (1372538.4239665978 552910.3936286574),,,,,Themo,12/29/10,Chips, ,
-Paint_School_Crosswalks.93,,,,,POINT (1364778.4368632445 566951.2437614305),,,,,Themo, , , ,
-Paint_School_Crosswalks.94,,,,,POINT (1364270.0794203433 567103.1363998103),,,,,Themo, , , ,
-Paint_School_Crosswalks.95,,,,,POINT (1358384.0201850939 555134.0550282908),,,,,Paint, ,Chips,6,
-Paint_School_Crosswalks.96,,,,,POINT (1356536.724744914 555675.7761721078),,,,,Themo, ,Chips,6,
-Paint_School_Crosswalks.97,,,,,POINT (1357880.3453668824 554635.0628347695),,,,,Themo, ,Chips,6,
-Paint_School_Crosswalks.98,,,,,POINT (1358384.0201850939 555134.0550282908),,,,,Paint, ,Chips,6,
-Paint_School_Crosswalks.99,,,,,POINT (1356112.3618823886 562925.0645202149),,,,,Themo, , ,6,
-Paint_School_Crosswalks.100,,,,,POINT (1361399.3378213693 560805.2988558896),,,,,Themo, , ,6,
-Paint_School_Crosswalks.101,,,,,POINT (1361406.6544224473 560814.0787771832),,,,,Themo, , ,6,
-Paint_School_Crosswalks.102,,,,,POINT (1361152.9146970615 560560.3390517973),,,,,Themo, ,Faded,6,
-Paint_School_Crosswalks.103,,,,,POINT (1361028.239814692 560384.4479618815),,,,,Paint, ,Chips,6,
-Paint_School_Crosswalks.104,,,,,POINT (1361008.0459957167 560372.7414001568),,,,,Paint, ,Chips,6,
-Paint_School_Crosswalks.105,,,,,POINT (1365475.2699499156 561104.1088439161),,,,,Themo, ,Chips,6,
-Paint_School_Crosswalks.106,,,,,POINT (1365544.3386640921 561106.4501562611),,,,,Themo, ,Chips,6,
-Paint_School_Crosswalks.107,,,,,POINT (1333752.8289879442 555309.3607901203),,,,,Themo,08-09-2011, , ,
-Paint_School_Crosswalks.108,,,,,POINT (1349669.655637123 596063.4141228058),,,,,Themo,03/27/12,Chips,1000,
-Paint_School_Crosswalks.109,,,,,POINT (1352177.4938226268 550881.3538176996),,,,,Themo,03-08-2012,Faded,1000,
-Paint_School_Crosswalks.110,,,,,POINT (1377790.8655484903 570210.350545626),,,,,Themo,05/31/12,Faded,60,
-Paint_School_Crosswalks.111,,,,,POINT (1332508.7141406368 555416.1831658594),,,,,Themo,06-04-2012,Chips,1000,
-Paint_School_Crosswalks.112,,,,,POINT (1376679.0348486737 570783.3867420569),,,,,Themo,04-11-2013,,270,
+FID,Name,Address,City,Zipcode,geom,,,,,POWER,ADDRESS,SIGNS,S1_1,SPEED,Type,Installation_time,condition,Feet_used
+Schools_Elementary.fid--710a7ce6_150abe9529f_-df7,Hollifield Station,8701 STONEHOUSE DR,Ellicott City,21043,POINT (1364014.5837106986 595742.069003459),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-df6,Northfield,9125 NORTHFIELD RD,Ellicott City,21042,POINT (1360341.0646414438 578805.6008280467),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-df5,St. Johns Lane,2960 SAINT JOHNS LN,Ellicott City,21042,POINT (1359408.3443360173 591494.6357456439),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-df4,Rockburn,6145 MONTGOMERY RD,Elkridge,21075,POINT (1377968.805286708 564014.9454167975),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-df3,Bryant Woods,5450 BLUE HERON LN,Columbia,21044,POINT (1349866.033210057 566099.8840599916),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-df2,West Friendship,12500 FREDERICK RD,West Friendship,21794,POINT (1327649.905696742 595473.9887399601),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-df1,Worthington,4570 ROUNDHILL RD,Ellicott City,21043,POINT (1370265.302343677 574871.6107604142),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-df0,Waterloo,5940 WATERLOO RD,Columbia,21045,POINT (1369580.4684827738 561177.2748546964),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-def,Bellows Spring,8125 OLD STOCKBRIDGE DR,Ellicott City,21043,POINT (1372757.0440068091 560080.955349165),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dee,Clarksville,12041 CLARKSVILLE PK,Clarksville,21029,POINT (1332651.53419368 565111.5575863719),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-ded,Forest Ridge,9550 GORMAN RD,Laurel,20723,POINT (1357667.8712715767 534855.6561444799),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dec,OLD CEDAR LANE,5451 BEAVERKILL RD,Columbia,21044,POINT (1344542.474265686 567683.1965332761),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-deb,Bollman Bridge,8200 SAVAGE GUILFORD RD,Jessup,20794,POINT (1361097.3085288685 538770.3303852663),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dea,DAYTON OAKS,4691 TEN OAKS RD,Dayton,21036,POINT (1316879.2835818029 573430.5330120864),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de9,Stevens Forest,6045 STEVENS FOREST RD,Columbia,21045,POINT (1356228.2568434644 560169.6325542307),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de8,Lisbon,15901 FREDERICK RD,Woodbine,21797,POINT (1292813.8119800063 607120.5543359603),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de7,Fulton,11600 SCAGGSVILLE RD,Fulton,20759,POINT (1336184.5745222366 540632.5516916453),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de6,Elkridge,7075 MONTGOMERY RD,Elkridge,21075,POINT (1389205.3485582955 563565.4134465636),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de5,Atholton,6700 SENECA DR,Columbia,21046,POINT (1351117.4646584424 553330.073866493),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de4,Swansfield,5610 CEDAR LN,Columbia,21044,POINT (1343852.6651160498 564506.3283451977),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de3,Jeffers Hill,6001 TAMAR DR,Columbia,21045,POINT (1361539.2312339812 560484.2464005857),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de2,Pointers Run,6600 SOUTH TROTTER RD,Clarksville,21029,POINT (1333256.470770811 555248.194005108),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de1,VETERANS,4355 MONTGOMERY RD,Ellicott City,21043,POINT (1365280.355697197 578142.4241063345),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-de0,Gorman Crossing,9999 WINTER SUN RD,Laurel,20723,POINT (1352136.5208565898 538470.3497410673),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-ddf,Thunder Hill,9357 MELLENBROOK RD,Columbia,21045,POINT (1359190.8949519782 569034.719084409),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dde,Ilchester,4981 ILCHESTER RD,Ellicott City,21043,POINT (1376357.3970652837 569880.5181690286),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-ddd,Deep Run,6925 OLD WATERLOO RD,Elkridge,21075,POINT (1372851.281828694 552927.9534712447),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-ddc,Triadelphia Ridge,13400 TRIADELPHIA RD,Ellicott City,21042,POINT (1318111.1065392992 582626.6225750344),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-ddb,Hammond,8110 ALADDIN DR,Laurel,20723,POINT (1346842.520980574 539560.523301693),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dda,Laurel Woods,9250 NORTH LAUREL RD,Laurel,20723,POINT (1357184.0976082976 528472.946028054),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd9,Cradlerock,6700 CRADLEROCK WAY,Columbia,21045,POINT (1356889.3849168748 555564.856499765),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd8,Waverly,10220 WETHERBURN RD,Ellicott City,21042,POINT (1349501.6664763715 596687.3738627398),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd7,Centennial Lane,3825 CENTENNIAL LN,Ellicott City,21042,POINT (1351505.2445155778 582523.0195037696),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd6,Talbott Springs,9550 BASKET RING RD,Columbia,21045,POINT (1356699.1532888461 563223.5818441984),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd5,Clemens Crossing,10320 QUARTERSTAFF RD,Columbia,21044,POINT (1348355.3014194665 556356.8054004504),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd4,Phelps Luck,5370 OLDSTONE CT,Columbia,21045,POINT (1363830.4980275757 566602.9735501165),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd3,Running Brook,5215 WEST RUNNING BROOK RD,Columbia,21044,POINT (1352745.8473943677 568939.6032703946),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd2,Longfellow,5470 HESPERUS DR,Columbia,21044,POINT (1345908.922683018 568184.8227031856),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd1,Guilford,7335 OAKLAND MILLS RD,Columbia,21046,POINT (1360590.1217421398 547325.1930297363),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dd0,Manor Woods,11575 FREDERICK RD,Ellicott City,21042,POINT (1336683.5667157578 591584.7762709251),,,,,,,,,,,,,
+Schools_Elementary.fid--710a7ce6_150abe9529f_-dcf,Bushy Park,14601 CARRS MILL RD,Woodbine,21797,POINT (1306019.398933712 595401.9933853523),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e1e,Burleigh Manor MS,4200 CENTENNIAL LN,Ellicott City,21042,POINT (1349837.3521338312 578560.0556958681),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e1d,Elkridge Landing,7085 MONTGOMERY RD,Elkridge,21075,POINT (1389179.886786544 563071.6892058186),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e1c,Lime Kiln,11650 SCAGGSVILLE RD,Fulton,20759,POINT (1336176.087264986 541910.6155679546),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e1b,Patapsco,8885 OLD FREDERICK RD,Ellicott City,21043,POINT (1364081.3111125303 594207.0460972893),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e1a,Patuxent Valley,9151 VOLLMERHAUSEN RD,Jessup,20794,POINT (1361027.9471506488 539147.8670008924),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e19,Oakland Mills,9540 KILIMANJARO RD,Columbia,21045,POINT (1356673.6915170946 561196.8833455854),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e18,Murray Hill,9989 WINTER SUN RD,Laurel,20723,POINT (1352696.9724991664 538549.36903271),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e17,Folly Quarter,13500 TRIADELPHIA RD,Ellicott City,21042,POINT (1316869.0403402937 582511.898270131),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e16,Bonnie Branch,4979 ILCHESTER RD,Ellicott City,21043,POINT (1376669.3769352506 570244.0069105849),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e15,Wilde Lake,10481 CROSS FOX LN,Columbia,21044,POINT (1347310.1981214813 564995.9552893392),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e14,Mayfield Woods,7950 RED BARN WAY,Elkridge,21075,POINT (1372870.0123274538 557665.5990012875),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e13,Harpers Choice,5450 BEAVERKILL RD,Columbia,21044,POINT (1344093.5276235384 567427.4081595883),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e12,Mount View,12101 WOODFORD DR,Marriottsville,21104,POINT (1330267.4928984162 602387.0061025212),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e11,Glenwood,2680 RT 97,Glenwood,21738,POINT (1305446.362737281 593950.6723955153),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e10,Clarksville,6535 SOUTH TROTTER RD,Clarksville,21029,POINT (1333861.407347942 554937.9701193997),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e0f,Ellicott Mills,4445 MONTGOMERY RD,Ellicott City,21043,POINT (1365863.049807051 576746.1239566042),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e0e,Thomas Viaduct,7000 BANBURY DR,Hanover,21076,POINT (1387390.2461628593 553122.8677239633),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e0d,Dunloggin,9129 NORTHFIELD RD,Ellicott City,21042,POINT (1359899.7272644173 579040.902718716),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e0c,Lake Elkhorn,6680 CRADLEROCK WAY,Columbia,21045,POINT (1356658.4729868523 555378.72216834),,,,,,,,,,,,,
+Schools_Middle.fid--710a7ce6_150abe9529f_-e0b,Hammond,8100 ALADDIN DR,Laurel,20723,POINT (1346637.6561503892 539708.6113075123),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e2b,Glenelg,14025 BURNTWOODS RD,Glenelg,21737,POINT (1311661.6690210416 585894.5092805235),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e2a,Marriotts Ridge,12100 WOODFORD DR,Marriottsville,21104,POINT (1330830.2858533377 602789.1264977695),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e29,Long Reach,6101 OLD DOBBIN LN,Columbia,21045,POINT (1365779.3478907184 560672.7220443557),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e28,Mt. Hebron,9440 OLD FREDERICK RD,Ellicott City,21042,POINT (1357521.8319140594 594493.5641955048),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e27,Atholton,6520 FREETOWN RD,Columbia,21044,POINT (1346149.1998624203 554196.6520981742),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e26,Applications Research Lab,10920 CLARKSVILLE PK,Ellicott City,21042,POINT (1342742.2977364487 571272.135694069),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e25,Hammond,8800 GUILFORD RD,Columbia,21046,POINT (1351918.4861444647 546560.7545491043),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e24,Reservoir,11550 SCAGGSVILLE RD,Fulton,20759,POINT (1336986.474000388 540904.4365877047),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e23,Howard,8700 OLD ANNAPOLIS RD,Ellicott City,21043,POINT (1365398.2993065747 568135.069815855),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e22,Centennial HS,4300 CENTENNIAL LN,Ellicott City,21042,POINT (1349612.5861487142 577661.5770834866),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e21,River Hill,12101 CLARKSVILLE PK,Clarksville,21029,POINT (1332622.2677893678 564178.8372809453),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e20,Oakland Mills,9410 KILIMANJARO RD,Columbia,21045,POINT (1357905.2218105479 561667.7797909671),,,,,,,,,,,,,
+Schools_High.fid--710a7ce6_150abe9529f_-e1f,Wilde Lake,5460 TRUMPETER RD,Columbia,21044,POINT (1348368.76396545 564808.0649736555),,,,,,,,,,,,,
+School_Flashing_Signs.1,,,,,POINT (1364982.716365343 561292.8771517291),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.2,,,,,POINT (1365333.620553045 559592.4990611961),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.3,,,,,POINT (1366056.2080755108 561189.2740804643),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.4,,,,,POINT (1361472.2111681066 560943.1436201995),,,,,electric,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.5,,,,,POINT (1361107.8444344208 560500.3429229575),,,,,solar,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.6,,,,,POINT (1362020.370920872 560437.1274896433),,,,,solar,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.7,,,,,POINT (1358735.8023649252 561611.2956306448),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.8,,,,,POINT (1357594.1199327102 560927.6324259142),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.9,,,,,POINT (1357434.032701123 560893.3907328689),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.10,,,,,POINT (1355537.862365742 560903.3413103351),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.11,,,,,POINT (1356072.8522365673 559529.8689559682),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.12,,,,,POINT (1356187.2838774275 560707.5490654871),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.13,,,,,POINT (1346090.374389753 555941.2224592185),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.14,,,,,POINT (1346815.0105605207 553366.9495359262),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.15,,,,,POINT (1347944.9864310108 555974.8788241774),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.16,,,,,POINT (1348773.8110011294 556079.3598875717),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.17,,,,,POINT (1350962.3527155884 554285.0366391968),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.18,,,,,POINT (1351468.3688461445 553242.2746535566),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.19,,,,,POINT (1350493.7975825516 552849.5195076882),,,,,electric,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.20,,,,,POINT (1351466.6128618857 547500.2061275226),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.21,,,,,POINT (1352459.0366321092 546963.1676083956),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.22,,,,,POINT (1360378.5256389633 546800.4464004203),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.23,,,,,POINT (1360323.5047988566 548137.335749397),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.24,,,,,POINT (1369703.972708971 560422.2016234441),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.25,,,,,POINT (1372770.7992168358 556786.7288797951),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.26,,,,,POINT (1373513.2878942338 556481.772946863),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.27,,,,,POINT (1359240.647839309 570113.1860833098),,,,,electric,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.28,,,,,POINT (1358761.2641366767 569020.9638743822),,,,,solar,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.29,,,,,POINT (1344457.0163650948 566902.0762021862),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.30,,,,,POINT (1356876.5076989774 556196.1328407769),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.31,,,,,POINT (1356055.585058023 555207.8063671573),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.32,,,,,POINT (1370456.704627878 573567.2071202239),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.33,,,,,POINT (1371497.4179652163 575151.982913724),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.34,,,,,POINT (1372072.210145906 574281.6000494822),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.35,,,,,POINT (1377186.8069634887 563718.1840770729),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.36,,,,,POINT (1377907.0531736093 563689.7956648901),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.37,,,,,POINT (1387758.7101931486 562574.1603325128),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.38,,,,,POINT (1388940.194935228 562121.9943858909),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.39,,,,,POINT (1375463.015749506 569900.4193239609),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.40,,,,,POINT (1376772.9800065155 571083.3673862559),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.41,,,,,POINT (1377242.1204676386 571787.224409962),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.42,,,,,POINT (1377117.445585269 572922.1755691852),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.43,,,,,POINT (1377796.1335012666 573330.7345733821),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.44,,,,,POINT (1370711.0296813503 561883.4731907473),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.45,,,,,POINT (1370056.0475528454 561235.5149992774),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.46,,,,,POINT (1372021.286602403 553708.1958102053),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.47,,,,,POINT (1363597.8301132943 595526.6682677219),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.48,,,,,POINT (1364496.894053762 595030.3100505887),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.49,,,,,POINT (1364877.0646457763 595029.1393944161),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.50,,,,,POINT (1364237.0083834706 596020.9778365532),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.51,,,,,POINT (1359482.68100297 591890.0248679003),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.52,,,,,POINT (1360121.27394506 591102.7585919048),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.53,,,,,POINT (1350923.7210618963 583197.6101231634),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.54,,,,,POINT (1351387.8862342862 581621.6142509569),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.55,,,,,POINT (1350307.6632511267 579004.612377369),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.56,,,,,POINT (1349880.0810841268 576721.8328410251),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.57,,,,,POINT (1363978.5860333948 567226.6406260073),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.58,,,,,POINT (1364738.0492252938 566960.0236827242),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.59,,,,,POINT (1360366.8190772384 539390.4854926397),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.60,,,,,POINT (1361275.8335951723 539595.3503228244),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.61,,,,,POINT (1361606.5439638991 539643.3472258963),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.62,,,,,POINT (1362982.0649665678 539758.3641948429),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.63,,,,,POINT (1361472.2111681066 539144.6476964181),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.64,,,,,POINT (1361646.3462737636 538568.0995314698),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.65,,,,,POINT (1362128.9492808701 536619.5423323701),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.66,,,,,POINT (1362243.0882576872 535977.7300858058),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.67,,,,,POINT (1357462.4211133057 534444.1704998517),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.68,,,,,POINT (1356985.3787230186 534810.8785458823),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.69,,,,,POINT (1360733.5271232692 527436.9153154056),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.70,,,,,POINT (1356505.7023563432 529000.9119618442),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.71,,,,,POINT (1356105.92327344 529244.701109764),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.72,,,,,POINT (1353273.5206641147 537072.2936070783),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.73,,,,,POINT (1352406.9424324336 537173.8480300413),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.74,,,,,POINT (1348139.3153556432 539386.095531993),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.75,,,,,POINT (1346597.5611764817 540479.488397093),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.76,,,,,POINT (1347498.381101208 541151.4450400987),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.77,,,,,POINT (1312474.982396875 585981.1378372873),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.78,,,,,POINT (1310939.6668266621 587223.7893643791),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.79,,,,,POINT (1316958.5955374886 574609.0911137346),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.80,,,,,POINT (1316188.8891040804 572948.222669023),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.81,,,,,POINT (1316526.330745799 581752.7277422751),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.82,,,,,POINT (1318095.3026809706 581958.7632286323),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.83,,,,,POINT (1318261.8285215064 582257.5732166588),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.84,,,,,POINT (1318853.8878807402 582615.2086773528),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.85,,,,,POINT (1323904.6839369226 579050.5606321389),,,,,electric,,30 fines dbl w/flash,,30,,,,
+School_Flashing_Signs.86,,,,,POINT (1325140.6041910225 579173.4795302497),,,,,solar,,30 fines dbl w/flash,,30,,,,
+School_Flashing_Signs.87,,,,,POINT (1340592.0950116387 595401.9933853523),,,,,solar,,35 fines dbl w/flash,,35,,,,
+School_Flashing_Signs.88,,,,,POINT (1340460.3961922342 594203.5341287719),,,,,solar,,35 fines dbl w/flash,,35,,,,
+School_Flashing_Signs.89,,,,,POINT (1332742.5527110905 555018.7453953011),,,,,solar,,30 fines dbl w/flash,,30,,,,
+School_Flashing_Signs.90,,,,,POINT (1332455.4492847887 555224.7808816583),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.91,,,,,POINT (1285598.472660901 612592.4939501936),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.92,,,,,POINT (1283978.2845181832 612679.1225069574),,,,,solar,,35 fines dbl w/flash,,35,,,,
+School_Flashing_Signs.93,,,,,POINT (1334047.83434341 554323.0829648025),,,,,solar,,30 fines dbl w/flash,,30,,,,
+School_Flashing_Signs.94,,,,,POINT (1361248.9085032053 526140.9989324658),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.95,,,,,POINT (1344229.6164035897 564282.7330162532),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.96,,,,,POINT (1344016.8496442407 565247.9390304664),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.97,,,,,POINT (1350005.6339586258 566765.6947580918),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.98,,,,,POINT (1350541.7944856235 566580.7310828393),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.99,,,,,POINT (1390996.7451662393 561188.396088335),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.100,,,,,POINT (1393269.2814610738 562641.4730624307),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.101,,,,,POINT (1364634.4461540289 577356.9138145976),,,,,electric,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.102,,,,,POINT (1366472.9616729151 575889.496302389),,,,,electric,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.103,,,,,POINT (1365652.0390319608 567395.5077788882),,,,,electric,,S1-1/fines dbl flash,School,40,,,,
+School_Flashing_Signs.104,,,,,POINT (1352639.3176826716 568205.6018502471),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.105,,,,,POINT (1352169.8845575056 569000.1847273207),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.106,,,,,POINT (1356913.3833684106 562855.9958060384),,,,,solar,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.107,,,,,POINT (1356083.0954780765 562851.3131813485),,,,,solar,,S1-1/fines dbl flash,School,25,,,,
+School_Flashing_Signs.108,,,,,POINT (1355983.2970393721 561414.3327296244),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.109,,,,,POINT (1356909.57873585 562097.995934355),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.110,,,,,POINT (1348860.7322219363 565311.7397918667),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.111,,,,,POINT (1347508.6243427175 565836.4864211826),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.112,,,,,POINT (1345624.7458971476 567691.0984624404),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.113,,,,,POINT (1345968.6261478148 567734.7054048654),,,,,electric,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.114,,,,,POINT (1359964.4060179472 587483.3823706274),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.115,,,,,POINT (1359823.927277249 588239.3335940089),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.116,,,,,POINT (1359978.7465560602 584969.6909042612),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.117,,,,,POINT (1361187.1563901068 584680.5388296576),,,,,electric,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.118,,,,,POINT (1348986.8704245216 550460.5029236915),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.119,,,,,POINT (1348037.175604594 550554.7407455766),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.120,,,,,POINT (1359964.4060179472 587483.3823706274),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.121,,,,,POINT (1359823.927277249 588239.3335940089),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.122,,,,,POINT (1305252.3264766918 596175.211787278),,,,,solar,,25 fines dbl w/flash,,25,,,,
+School_Flashing_Signs.123,,,,,POINT (1306415.666048098 594931.6822680569),,,,,electric,,35 fines dbl w/flash,,40,,,,
+School_Flashing_Signs.124,,,,,POINT (1305550.5511366322 593118.043192836),,,,,electric,,35 fines dbl w/flash,,40,,,,
+School_Flashing_Signs.125,,,,,POINT (1361486.5517062196 578962.4687551595),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+School_Flashing_Signs.126,,,,,POINT (1360814.8877272569 580267.7503874792),,,,,solar,,S1-1/fines dbl flash,,25,,,,
+Paint_School_Crosswalks.1,,,,,POINT (1358984.274137535 569577.3182203553),,,,,,,,,,Themo,06-02-2006, , 
+Paint_School_Crosswalks.2,,,,,POINT (1358297.3916283299 568854.7306978895),,,,,,,,,,Themo,06-02-2006, , 
+Paint_School_Crosswalks.3,,,,,POINT (1361027.9471506488 560385.618618054),,,,,,,,,,Paint,06/13/06, , 
+Paint_School_Crosswalks.4,,,,,POINT (1360997.2174261212 560382.1066495365),,,,,,,,,,Paint,06/13/06, , 
+Paint_School_Crosswalks.5,,,,,POINT (1358544.9854088102 559709.5646784445),,,,,,,,,,Paint,06/13/06, , 
+Paint_School_Crosswalks.6,,,,,POINT (1356731.9316616757 558003.040643006),,,,,,,,,,Paint,06/16/06, , 
+Paint_School_Crosswalks.7,,,,,POINT (1347374.2915469247 539147.5743368493),,,,,,,,,,Paint,06/16/06, , 
+Paint_School_Crosswalks.8,,,,,POINT (1347050.8977792761 538104.5196871661),,,,,,,,,,Paint,06/16/06, , 
+Paint_School_Crosswalks.9,,,,,POINT (1350387.8531989418 579136.6038608165),,,,,,,,,,Paint,12/14/06, , 
+Paint_School_Crosswalks.10,,,,,POINT (1350037.2416752828 579182.2594515433),,,,,,,,,,Paint,12/14/06, , 
+Paint_School_Crosswalks.11,,,,,POINT (1356835.8273969837 528218.0356464955),,,,,,,,,,Themo,01-09-2007, , 
+Paint_School_Crosswalks.12,,,,,POINT (1356100.6553206637 529345.6702046407),,,,,,,,,,Themo,01-09-2007, , 
+Paint_School_Crosswalks.13,,,,,POINT (1356443.6575792015 528912.8200848649),,,,,,,,,,Themo,01-09-2007, , 
+Paint_School_Crosswalks.14,,,,,POINT (1352937.835006655 537167.4094210926),,,,,,,,,,Themo,01-09-2007, , 
+Paint_School_Crosswalks.15,,,,,POINT (1355605.467759703 529908.4631595624),,,,,,,,,,Themo,01-09-2007, , 
+Paint_School_Crosswalks.16,,,,,POINT (1355646.733389783 529917.8284089423),,,,,,,,,,Themo,01-09-2007, , 
+Paint_School_Crosswalks.17,,,,,POINT (1355663.1225761978 529868.3681856549),,,,,,,,,,Themo,01-09-2007, , 
+Paint_School_Crosswalks.18,,,,,POINT (1352464.011920842 568703.716051639),,,,,,,,,,Themo,01-04-2007, , 
+Paint_School_Crosswalks.19,,,,,POINT (1348930.9715922854 566254.4106747594),,,,,,,,,,Themo,01/17/07, , 
+Paint_School_Crosswalks.20,,,,,POINT (1348471.1963805424 567107.233696414),,,,,,,,,,Themo,01/17/07, , 
+Paint_School_Crosswalks.21,,,,,POINT (1349698.0440493056 567305.9525816932),,,,,,,,,,Themo,01/17/07, , 
+Paint_School_Crosswalks.22,,,,,POINT (1350404.8277134427 566648.3364768003),,,,,,,,,,Themo,01/17/07, , 
+Paint_School_Crosswalks.23,,,,,POINT (1349925.7366748538 565527.1405276038),,,,,,,,,,Themo,01/17/07, , 
+Paint_School_Crosswalks.24,,,,,POINT (1362046.710684753 535804.4729722781),,,,,,,,,,Paint,01-10-2007, , 
+Paint_School_Crosswalks.25,,,,,POINT (1362275.5739664736 535837.836673194),,,,,,,,,,Paint,01-10-2007, , 
+Paint_School_Crosswalks.26,,,,,POINT (1361550.937795706 538924.564335991),,,,,,,,,,Themo,01-10-2007, , 
+Paint_School_Crosswalks.27,,,,,POINT (1361387.3385956015 539558.181989348),,,,,,,,,,Themo,01-10-2007, , 
+Paint_School_Crosswalks.28,,,,,POINT (1361362.4621519363 539573.4005195904),,,,,,,,,,Themo,01-10-2007, , 
+Paint_School_Crosswalks.29,,,,,POINT (1361395.2405247658 539606.1788924199),,,,,,,,,,Themo,01-10-2007, , 
+Paint_School_Crosswalks.30,,,,,POINT (1358561.6672592682 534033.8555113961),,,,,,,,,,Paint,01-10-2007, , 
+Paint_School_Crosswalks.31,,,,,POINT (1357212.7786845234 534665.4245164512),,,,,,,,,,Themo,01-10-2007, , 
+Paint_School_Crosswalks.32,,,,,POINT (1344061.3345787951 564941.8124413617),,,,,,,,,,Paint,01/24/07, , 
+Paint_School_Crosswalks.33,,,,,POINT (1343677.6520182635 568947.2125355158),,,,,,,,,,Paint,01/24/07, , 
+Paint_School_Crosswalks.34,,,,,POINT (1345709.9111336956 558006.2599474803),,,,,,,,,,Themo,01/29/07, , 
+Paint_School_Crosswalks.35,,,,,POINT (1357179.7076476507 562711.4197687366),,,,,,,,,,Paint,02-06-2007, , 
+Paint_School_Crosswalks.36,,,,,POINT (1355374.5558296805 562634.7417894389),,,,,,,,,,Paint,01/30/07, , 
+Paint_School_Crosswalks.37,,,,,POINT (1355502.4500165244 558857.034320833),,,,,,,,,,Paint,02-06-2007, , 
+Paint_School_Crosswalks.38,,,,,POINT (1356963.7215838276 560815.2494333556),,,,,,,,,,Paint,02-06-2007, , 
+Paint_School_Crosswalks.39,,,,,POINT (1354484.8571385927 560593.9954167561),,,,,,,,,,Paint,02-06-2007, , 
+Paint_School_Crosswalks.40,,,,,POINT (1356597.30620184 555690.1167102207),,,,,,,,,,Paint,02-12-2007, , 
+Paint_School_Crosswalks.41,,,,,POINT (1349315.5321449465 557099.8794059346),,,,,,,,,,Themo,01/30/07, , 
+Paint_School_Crosswalks.42,,,,,POINT (1346606.0484337322 553975.983409661),,,,,,,,,,Paint,01/30/07, , 
+Paint_School_Crosswalks.43,,,,,POINT (1346121.9821064102 556016.1444542574),,,,,,,,,,Themo,01/30/07, , 
+Paint_School_Crosswalks.44,,,,,POINT (1346091.2523818824 556041.8988900521),,,,,,,,,,Themo,01/30/07, , 
+Paint_School_Crosswalks.45,,,,,POINT (1348275.9894637805 556121.7961738242),,,,,,,,,,Themo,01/30/07, , 
+Paint_School_Crosswalks.46,,,,,POINT (1360423.595901604 569235.1939539468),,,,,,,,,,Themo,04-11-2007, , 
+Paint_School_Crosswalks.47,,,,,POINT (1360389.939536645 569258.8997414396),,,,,,,,,,Themo,04-11-2007, , 
+Paint_School_Crosswalks.48,,,,,POINT (1359947.138839403 569148.8580612261),,,,,,,,,,Themo,04-11-2007, , 
+Paint_School_Crosswalks.49,,,,,POINT (1360038.7426848998 567153.7672792702),,,,,,,,,,Themo,04-11-2007, , 
+Paint_School_Crosswalks.50,,,,,POINT (1362358.6905547201 559888.6750728346),,,,,,,,,,Paint,04-11-2007, , 
+Paint_School_Crosswalks.51,,,,,POINT (1371181.926126732 574634.260221443),,,,,,,,,,Themo,06/18/07, , 
+Paint_School_Crosswalks.52,,,,,POINT (1371157.927675196 574623.1389878044),,,,,,,,,,Themo,06/18/07, , 
+Paint_School_Crosswalks.53,,,,,POINT (1347786.9478477254 537806.880355312),,,,,,,,,,Paint,01-11-2007, , 
+Paint_School_Crosswalks.54,,,,,POINT (1344945.7653171069 566842.3727373895),,,,,,,,,,Themo,01/18/07, , 
+Paint_School_Crosswalks.55,,,,,POINT (1345476.9505553714 567671.1973075082),,,,,,,,,,Themo,01/18/07, , 
+Paint_School_Crosswalks.56,,,,,POINT (1345433.9289410326 567680.269892845),,,,,,,,,,Themo,01/18/07, , 
+Paint_School_Crosswalks.57,,,,,POINT (1345431.0023006015 567718.0235544075),,,,,,,,,,Themo,01/18/07, , 
+Paint_School_Crosswalks.58,,,,,POINT (1345481.3405160182 567723.87683527),,,,,,,,,,Themo,01/18/07, , 
+Paint_School_Crosswalks.59,,,,,POINT (1356197.8197829798 561491.5960370083),,,,,,,,,,Themo,09-11-2008, , 
+Paint_School_Crosswalks.60,,,,,POINT (1360781.524026341 579449.1690588697),,,,,,,,,,Themo,08/27/08, , 
+Paint_School_Crosswalks.61,,,,,POINT (1358010.2882020283 559151.1616841697),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.62,,,,,POINT (1351151.1210234014 551155.872690147),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.63,,,,,POINT (1351409.250709434 551136.264199258),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.64,,,,,POINT (1351411.0066936929 551197.7236483133),,,,,,,,,,Themo,09-04-2008, , 
+Paint_School_Crosswalks.65,,,,,POINT (1350807.8261008204 551972.4053704547),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.66,,,,,POINT (1349378.1622501744 551371.2734258841),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.67,,,,,POINT (1350567.8415854613 552841.0322504378),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.68,,,,,POINT (1351558.8020354689 553100.332592643),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.69,,,,,POINT (1351292.1850921856 553527.3294315565),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.70,,,,,POINT (1351121.5619550461 553934.1324514947),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.71,,,,,POINT (1350802.265484001 552371.8917893148),,,,,,,,,,Paint,09-04-2008, , 
+Paint_School_Crosswalks.72,,,,,POINT (1341434.3821277411 560632.9197344913),,,,,,,,,,Themo,09-03-2008, , 
+Paint_School_Crosswalks.73,,,,,POINT (1347417.0204972206 565487.0455536962),,,,,,,,,,Themo,09-03-2008, , 
+Paint_School_Crosswalks.74,,,,,POINT (1345766.9806221044 567708.9509690708),,,,,,,,,,Themo,09-03-2008, , 
+Paint_School_Crosswalks.75,,,,,POINT (1330520.0619676295 602664.1589513568),,,,,,,,,,Themo,11/17/08, , 
+Paint_School_Crosswalks.76,,,,,POINT (1330361.7307203012 603071.2546353381),,,,,,,,,,Themo,11/19/08, , 
+Paint_School_Crosswalks.77,,,,,POINT (1358202.2758143155 561414.3327296244),,,,,,,,,,Themo,07/14/09, , 
+Paint_School_Crosswalks.78,,,,,POINT (1346231.7311225804 564510.7183058445),,,,,,,,,,Themo,10-08-2009, , 
+Paint_School_Crosswalks.79,,,,,POINT (1346207.7326710445 564322.2426620746),,,,,,,,,,Themo,10-08-2009, , 
+Paint_School_Crosswalks.80,,,,,POINT (1346350.5527240876 564492.573135171),,,,,,,,,,Themo,10-08-2009, , 
+Paint_School_Crosswalks.81,,,,,POINT (1359919.9210833928 591305.5747737876),,,,,,,,,,Themo,10/13/09, , 
+Paint_School_Crosswalks.82,,,,,POINT (1356501.6050597394 562984.7679850116),,,,,,,,,,Themo,07/21/10, , 
+Paint_School_Crosswalks.83,,,,,POINT (1353913.8695904636 536573.8867416432),,,,,,,,,,Themo,08/19/10, , 
+Paint_School_Crosswalks.84,,,,,POINT (1344205.6179520537 563974.85044289),,,,,,,,,,Themo,12/29/10, , 
+Paint_School_Crosswalks.85,,,,,POINT (1344200.3499992776 563960.8025688202),,,,,,,,,,Themo,12/29/10, , 
+Paint_School_Crosswalks.86,,,,,POINT (1344206.495944183 563906.0743927566),,,,,,,,,,Themo,12/29/10, , 
+Paint_School_Crosswalks.87,,,,,POINT (1343738.8188032757 564966.3962209839),,,,,,,,,,Paint,12/29/10, , 
+Paint_School_Crosswalks.88,,,,,POINT (1374162.124077833 556428.8007550581),,,,,,,,,,Themo,12/29/10,Chips, 
+Paint_School_Crosswalks.89,,,,,POINT (1373118.1914360204 556648.0061233557),,,,,,,,,,Themo,12/29/10, , 
+Paint_School_Crosswalks.90,,,,,POINT (1373073.12117338 556659.7126850806),,,,,,,,,,Themo,12/29/10,Chips, 
+Paint_School_Crosswalks.91,,,,,POINT (1372089.184660407 556959.1080011934),,,,,,,,,,Themo,12/29/10,Chips, 
+Paint_School_Crosswalks.92,,,,,POINT (1372538.4239665978 552910.3936286574),,,,,,,,,,Themo,12/29/10,Chips, 
+Paint_School_Crosswalks.93,,,,,POINT (1364778.4368632445 566951.2437614305),,,,,,,,,,Themo, , , 
+Paint_School_Crosswalks.94,,,,,POINT (1364270.0794203433 567103.1363998103),,,,,,,,,,Themo, , , 
+Paint_School_Crosswalks.95,,,,,POINT (1358384.0201850939 555134.0550282908),,,,,,,,,,Paint, ,Chips,6
+Paint_School_Crosswalks.96,,,,,POINT (1356536.724744914 555675.7761721078),,,,,,,,,,Themo, ,Chips,6
+Paint_School_Crosswalks.97,,,,,POINT (1357880.3453668824 554635.0628347695),,,,,,,,,,Themo, ,Chips,6
+Paint_School_Crosswalks.98,,,,,POINT (1358384.0201850939 555134.0550282908),,,,,,,,,,Paint, ,Chips,6
+Paint_School_Crosswalks.99,,,,,POINT (1356112.3618823886 562925.0645202149),,,,,,,,,,Themo, , ,6
+Paint_School_Crosswalks.100,,,,,POINT (1361399.3378213693 560805.2988558896),,,,,,,,,,Themo, , ,6
+Paint_School_Crosswalks.101,,,,,POINT (1361406.6544224473 560814.0787771832),,,,,,,,,,Themo, , ,6
+Paint_School_Crosswalks.102,,,,,POINT (1361152.9146970615 560560.3390517973),,,,,,,,,,Themo, ,Faded,6
+Paint_School_Crosswalks.103,,,,,POINT (1361028.239814692 560384.4479618815),,,,,,,,,,Paint, ,Chips,6
+Paint_School_Crosswalks.104,,,,,POINT (1361008.0459957167 560372.7414001568),,,,,,,,,,Paint, ,Chips,6
+Paint_School_Crosswalks.105,,,,,POINT (1365475.2699499156 561104.1088439161),,,,,,,,,,Themo, ,Chips,6
+Paint_School_Crosswalks.106,,,,,POINT (1365544.3386640921 561106.4501562611),,,,,,,,,,Themo, ,Chips,6
+Paint_School_Crosswalks.107,,,,,POINT (1333752.8289879442 555309.3607901203),,,,,,,,,,Themo,08-09-2011, , 
+Paint_School_Crosswalks.108,,,,,POINT (1349669.655637123 596063.4141228058),,,,,,,,,,Themo,03/27/12,Chips,1000
+Paint_School_Crosswalks.109,,,,,POINT (1352177.4938226268 550881.3538176996),,,,,,,,,,Themo,03-08-2012,Faded,1000
+Paint_School_Crosswalks.110,,,,,POINT (1377790.8655484903 570210.350545626),,,,,,,,,,Themo,05/31/12,Faded,60
+Paint_School_Crosswalks.111,,,,,POINT (1332508.7141406368 555416.1831658594),,,,,,,,,,Themo,06-04-2012,Chips,1000
+Paint_School_Crosswalks.112,,,,,POINT (1376679.0348486737 570783.3867420569),,,,,,,,,,Themo,04-11-2013,,270
