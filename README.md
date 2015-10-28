@@ -49,7 +49,7 @@ The dataset created for INFM600 class is distributed under a Creative Commons At
 References: 
 -----------
 
-Crasto, Deon. (2015). Tagging crosswalks and flashing signs near public schools in Howard County, MD [Dataset]
+Crasto, Deon. (2015). Tagging crosswalks and flashing signs near public schools in Howard County, MD [Data set]
 Available at https://github.com/deon7/INFM-600/
 
 Howard County, Maryland. (November 2014). Schools - Elementary [Data set]. Retrieved October 25th 2015 from https://data.howardcountymd.gov/
@@ -60,7 +60,7 @@ Howard County, Maryland. (November 2014). Schools - Middle [Data set]. Retrieved
 
 Howard County, Maryland. (Novemeber 2014). Schools - High [Data set]. Retrieved October 25th 2015 from https://data.howardcountymd.gov/
 
-Howard County, Maryland. Paint School Crosswalks[Data set]. Retrieved October 25th 2015 from https://data.howardcountymd.gov/
+Howard County, Maryland. Paint School Crosswalks [Data set]. Retrieved October 25th 2015 from https://data.howardcountymd.gov/
 
-Howard County, Maryland. School Flashing Signs[Data set]. Retrieved October 25th 2015 from https://data.howardcountymd.gov/
+Howard County, Maryland. School Flashing Signs [Data set]. Retrieved October 25th 2015 from https://data.howardcountymd.gov/
 
